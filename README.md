@@ -1,6 +1,6 @@
   -                                        👋 Hi, I’m @RenilsonGP
 - 👀 
-I am interested in learning programming to change jobs and get new opportunities
+
 
 
 <!---
